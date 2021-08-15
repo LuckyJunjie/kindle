@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kindle"
+    }
+  },
+  "defaultProject": "kindle",
+  "cli": {
+    "analytics": false
+  }
 }
